@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _material: {fileID: 2100000, guid: b2d50a9a2dc92a442a7074889b90bf3e, type: 2}
   _jumpDuration: 1.5
-  _jumpPower: 4
+  _jumpPower: 6
   _lifeTimeAfterAnim: 3
   _ballFlyEase: 1
   _ballScaleEase: 1

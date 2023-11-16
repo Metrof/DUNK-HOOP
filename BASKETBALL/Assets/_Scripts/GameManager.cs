@@ -71,7 +71,6 @@ public class GameManager : MonoBehaviour
             if (_ballSeriesOfHit == 3) _isSeriesTriple = true;
             if (_ballSeriesOfHit == 6) _isSeriesSix = true;
             if (_ballSeriesOfHit == 10) _isSeriesTen = true;
-            Debug.Log("BallSeriesOfHit " + _ballSeriesOfHit);
         } 
     }
 

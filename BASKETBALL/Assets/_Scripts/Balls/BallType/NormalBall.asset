@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: NormalBall
   m_EditorClassIdentifier: 
   _material: {fileID: 2100000, guid: b0fcfcd5d8d6c164fa006d788af15302, type: 2}
-  _jumpDuration: 1
+  _jumpDuration: 2
   _jumpPower: 6
   _lifeTimeAfterAnim: 3
   _ballFlyEase: 1
